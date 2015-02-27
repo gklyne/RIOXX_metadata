@@ -1,0 +1,21 @@
+{
+  "rdfs:label": "Admin User",
+  "rdfs:comment": "User admin: permissions for Admin User in collection RIOXX_metadata",
+  "annal:user_uri": "mailto:admin@localhost",
+  "annal:type_id": "_user",
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_user/admin/",
+  "annal:user_permissions": [
+    "VIEW",
+    "CREATE",
+    "UPDATE",
+    "DELETE",
+    "CONFIG",
+    "ADMIN"
+  ],
+  "annal:id": "admin",
+  "@id": "./",
+  "@type": [
+    "annal:User"
+  ],
+  "annal:type": "annal:User"
+}

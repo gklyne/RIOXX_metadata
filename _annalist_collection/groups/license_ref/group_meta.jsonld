@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "License ref with start date",
+  "rdfs:comment": "",
+  "annal:type_id": "_group",
+  "annal:record_type": "rioxx:Publication",
+  "annal:group_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:0,8",
+      "annal:field_id": "license_link"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:8,4",
+      "annal:field_id": "start_date"
+    }
+  ],
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_group/license_ref/",
+  "annal:id": "license_ref",
+  "@id": "./",
+  "@type": [
+    "annal:Field_group"
+  ],
+  "annal:type": "annal:Field_group"
+}

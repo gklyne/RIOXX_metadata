@@ -1,0 +1,24 @@
+{
+  "rdfs:label": "Link",
+  "rdfs:comment": "Link and start date for an applicable licence.",
+  "annal:group_ref": "",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(Licence ref)",
+  "annal:property_uri": "rioxx:license_link",
+  "annal:options_typeref": "",
+  "annal:field_entity_type": "rioxx:Publication",
+  "@id": "./",
+  "annal:repeat_label_delete": "",
+  "annal:field_placement": "small:0,12;medium:0,8",
+  "annal:repeat_label_add": "",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Text",
+  "annal:field_render_type": "URILink",
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_field/license_link/",
+  "annal:restrict_values": "",
+  "annal:id": "license_link",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}
