@@ -5,6 +5,7 @@
   "rioxxterms:version": "V0.1",
   "dcterms:dateAccepted": "2015-02-27",
   "annal:type_id": "Publication",
+  "dc:title": "RIOXX example/test document in Annalist",
   "dc:language": "en",
   "rioxxterms:type_r": [
     {
@@ -66,7 +67,8 @@
       "dc:relation": "test:relation"
     }
   ],
-  "rioxxterms:version_of_record": "http://localhost:8000/annalist/c/RIOXX_metadata/v/RIOXX_view/Publication/test_publication/!edit?continuation_url=/annalist/c/RIOXX_metadata/v/RIOXX_view/Publication/test_publication/!view%3Fcontinuation_url=/annalist/c/RIOXX_metadata/d/",
+  "annal:url": "/annalist/c/RIOXX_metadata/d/Publication/test_publication/",
+  "rioxxterms:version_of_record": "http://demo.annalist.net/annalist/c/RIOXX_metadata/d/Publication/test_publication/",
   "annal:id": "test_publication",
   "@type": [
     "rioxx:Publication",

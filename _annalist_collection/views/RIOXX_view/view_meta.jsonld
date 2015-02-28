@@ -94,14 +94,20 @@
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
       "annal:field_id": "version_of_record"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "title"
     }
   ],
   "rdfs:label": "RIOXX publication view",
   "rdfs:comment": "RIOXX view of publication.\r\n\r\nSee: http://rioxx.net/v2-0-final/\r\n",
-  "annal:open_view": true,
+  "annal:id": "RIOXX_view",
   "annal:type_id": "_view",
   "annal:record_type": "rioxx:Publication",
-  "annal:id": "RIOXX_view",
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_view/RIOXX_view/",
+  "annal:open_view": true,
   "@id": "./",
   "@type": [
     "annal:View"
