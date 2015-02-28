@@ -1,0 +1,24 @@
+{
+  "rdfs:label": "Publication date",
+  "rdfs:comment": "Use of this element is: Optional \r\n\r\nThis element takes the publication date of the resource in the form in which it would be cited. This element is not used in a RIOXX context but allows for a RIOXX record to become a reasonable bibliographic record for the resource. This is a free-text field.\r\n\r\nExamples:\r\n\r\n    <rioxxterms:publication_date>\r\n        2011-02-23\r\n    </rioxxterms:publication_date>\r\n\r\n    <rioxxterms:publication_date>\r\n        Spring, 2010\r\n    </rioxxterms:publication_date>\r\n\r\nAs RIOXX is primarily concerned with such issues as compliance with funders\u2019 mandates and licensing of open access publications, the critical dates for the assertion of compliance are those held in the start_date attributes of the ali:license_ref elements.",
+  "annal:group_ref": "",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(publication date - free text)",
+  "annal:property_uri": "rioxxterms:publication_date",
+  "annal:options_typeref": "",
+  "annal:field_entity_type": "rioxx:Publication",
+  "@id": "./",
+  "annal:repeat_label_delete": "",
+  "annal:field_placement": "small:0,12",
+  "annal:repeat_label_add": "",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Text",
+  "annal:field_render_type": "Text",
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_field/publication_date/",
+  "annal:restrict_values": "",
+  "annal:id": "publication_date",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

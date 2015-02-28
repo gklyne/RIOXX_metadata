@@ -1,0 +1,24 @@
+{
+  "rdfs:label": "Type",
+  "rdfs:comment": "Use of this element is: Mandatory \r\n\r\nType refers to the \u2018type\u2019 - the nature or genre of the content of the resource. Take care not to confuse this with dc:format.\r\n\r\nValues recorded here MUST be from the following controlled list of types:\r\n\r\n* Book\r\n* Book chapter\r\n* Book edited\r\n* Conference Paper/Proceeding/Abstract\r\n* Journal Article/Review\r\n* Manual/Guide\r\n* Monograph\r\n* Policy briefing report\r\n* Technical Report\r\n* Technical Standard\r\n* Thesis\r\n* Other\r\n* Consultancy Report\r\n* Working paper",
+  "annal:group_ref": "",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(type)",
+  "annal:property_uri": "rioxxterms:type",
+  "annal:options_typeref": "",
+  "annal:field_entity_type": "rioxx:Publication",
+  "@id": "./",
+  "annal:repeat_label_delete": "",
+  "annal:field_placement": "",
+  "annal:repeat_label_add": "",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Text",
+  "annal:field_render_type": "Text",
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_field/type/",
+  "annal:restrict_values": "",
+  "annal:id": "type",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

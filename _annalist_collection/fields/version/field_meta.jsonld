@@ -1,0 +1,24 @@
+{
+  "rdfs:label": "Version",
+  "rdfs:comment": "Use of this element is: Mandatory \r\n\r\nThis element indicates which 'version' of the resource is being described. The value of this element MUST be one of the following:\r\n\r\n* AO\r\n* SMUR\r\n* AM\r\n* P\r\n* VoR\r\n* CVoR\r\n* EVoR\r\n* NA\r\n\r\nThese terms are adopted from the Journal Article Versions (JAV): Recommendations of the NISO/ALPSP JAV Technical Working Group and have the following meanings:\r\n\r\n* AO = Author's Original\r\n* SMUR = Submitted Manuscript Under Review\r\n* AM = Accepted Manuscript\r\n* P = Proof\r\n* VoR = Version of Record\r\n* CVoR = Corrected Version of Record\r\n* EVoR = Enhanced Version of Record\r\n* NA = Not Applicable (or Unknown)",
+  "annal:group_ref": "",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(version)",
+  "annal:property_uri": "rioxxterms:version",
+  "annal:options_typeref": "",
+  "annal:field_entity_type": "rioxx:Publication",
+  "@id": "./",
+  "annal:repeat_label_delete": "",
+  "annal:field_placement": "",
+  "annal:repeat_label_add": "",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Text",
+  "annal:field_render_type": "Text",
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_field/version/",
+  "annal:restrict_values": "",
+  "annal:id": "version",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

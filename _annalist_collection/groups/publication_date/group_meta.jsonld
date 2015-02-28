@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Publication date",
+  "rdfs:comment": "Group container for publication date",
+  "annal:type_id": "_group",
+  "annal:record_type": "rioxx:Publication",
+  "annal:group_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "publication_date"
+    }
+  ],
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_group/publication_date/",
+  "annal:id": "publication_date",
+  "@id": "./",
+  "@type": [
+    "annal:Field_group"
+  ],
+  "annal:type": "annal:Field_group"
+}

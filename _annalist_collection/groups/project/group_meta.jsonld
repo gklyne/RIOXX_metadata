@@ -1,0 +1,30 @@
+{
+  "rdfs:label": "Project",
+  "rdfs:comment": "Group container for project repeat",
+  "annal:type_id": "_group",
+  "annal:record_type": "rioxx:Publication",
+  "annal:group_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:0,4",
+      "annal:field_id": "project"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:4,4",
+      "annal:field_id": "funder_name"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:8,4",
+      "annal:field_id": "funder_id"
+    }
+  ],
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_group/project/",
+  "annal:id": "project",
+  "@id": "./",
+  "@type": [
+    "annal:Field_group"
+  ],
+  "annal:type": "annal:Field_group"
+}

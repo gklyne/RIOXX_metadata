@@ -1,0 +1,24 @@
+{
+  "rdfs:label": "Start date",
+  "rdfs:comment": "",
+  "annal:group_ref": "",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(End date: YYYY-MM-DD)",
+  "annal:property_uri": "rioxx:end_date",
+  "annal:options_typeref": "",
+  "annal:field_entity_type": "rioxx:Publication",
+  "@id": "./",
+  "annal:repeat_label_delete": "",
+  "annal:field_placement": "small:0,12;medium:6,6",
+  "annal:repeat_label_add": "",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Text",
+  "annal:field_render_type": "Text",
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_field/end_date/",
+  "annal:restrict_values": "",
+  "annal:id": "end_date",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

@@ -1,0 +1,24 @@
+{
+  "rdfs:label": "Language",
+  "rdfs:comment": "Use of this element is: Mandatory \r\n\r\nThis refers to the primary language in which the content of the resource is presented. The element MAY be repeated if the resource contains multiple languages. Values used for this element MUST conform to ISO 639\u20133. This offers two and three letter tags e.g. \"en\" or \"eng\" for English and \"en-GB\" for English used in the UK.\r\n",
+  "annal:group_ref": "",
+  "annal:type_id": "_field",
+  "annal:placeholder": "(language; e.g. 'en', 'en-GB', etc.)",
+  "annal:property_uri": "dc:language",
+  "annal:options_typeref": "",
+  "annal:field_entity_type": "rioxx:Publication",
+  "@id": "./",
+  "annal:repeat_label_delete": "",
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:repeat_label_add": "",
+  "annal:default_value": "",
+  "annal:field_value_type": "annal:Text",
+  "annal:field_render_type": "Text",
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_field/language/",
+  "annal:restrict_values": "",
+  "annal:id": "language",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:type": "annal:Field"
+}

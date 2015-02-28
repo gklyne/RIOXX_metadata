@@ -1,0 +1,25 @@
+{
+  "rdfs:label": "Free to read dates",
+  "rdfs:comment": "This is defined in the NISO Open Access Metadata and Indicators.\r\n\r\nThis element does not take a value - the semantics of ali:free_to_read are conveyed by its presence or absence. This element may be modified by two optional attributes\r\n\r\nstart_date\r\nend_date\r\nEach of these attributes, if present, takes a date value which MUST be encoded using ISO 8601 (post\u20132004 versions) which follows the following format: YYYY-MM-DD. Examples:\r\n\r\n<ali:free_to_read start_date=\"2013-03-28\" end_date=\"2014-04-30\">\r\n<ali:free_to_read start_date=\"2013-03-28\">\r\n<ali:free_to_read>\r\nThe absence of a start_date attribute implies that the meaning conveyed by the ali:free_to_read element is current and immediate, unless an end_date attribute which is a date in the subjective past, is present in the element.",
+  "annal:type_id": "_group",
+  "annal:record_type": "rioxx:Publication",
+  "annal:group_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:field_id": "start_date"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:6,6",
+      "annal:field_id": "end_date"
+    }
+  ],
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_group/free_to_read_dates/",
+  "annal:id": "free_to_read_dates",
+  "@id": "./",
+  "@type": [
+    "annal:Field_group"
+  ],
+  "annal:type": "annal:Field_group"
+}

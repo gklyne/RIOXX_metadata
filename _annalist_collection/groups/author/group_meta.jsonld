@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Author",
+  "rdfs:comment": "Container group for repeated author",
+  "annal:type_id": "_group",
+  "annal:record_type": "rioxx:Publication",
+  "annal:group_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "",
+      "annal:field_id": "author"
+    }
+  ],
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_group/author/",
+  "annal:id": "author",
+  "@id": "./",
+  "@type": [
+    "annal:Field_group"
+  ],
+  "annal:type": "annal:Field_group"
+}

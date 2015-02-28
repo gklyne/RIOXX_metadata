@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Relation",
+  "rdfs:comment": "Group container for relkation",
+  "annal:type_id": "_group",
+  "annal:record_type": "rioxx:Publication",
+  "annal:group_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "relation"
+    }
+  ],
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_group/relation/",
+  "annal:id": "relation",
+  "@id": "./",
+  "@type": [
+    "annal:Field_group"
+  ],
+  "annal:type": "annal:Field_group"
+}

@@ -1,0 +1,20 @@
+{
+  "rdfs:label": "Type",
+  "rdfs:comment": "Group container for type",
+  "annal:type_id": "_group",
+  "annal:record_type": "rioxx:Publication",
+  "annal:group_fields": [
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "type"
+    }
+  ],
+  "annal:url": "/annalist/c/RIOXX_metadata/d/_group/type/",
+  "annal:id": "type",
+  "@id": "./",
+  "@type": [
+    "annal:Field_group"
+  ],
+  "annal:type": "annal:Field_group"
+}

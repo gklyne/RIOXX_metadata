@@ -6,24 +6,94 @@
       "annal:field_id": "Entity_id"
     },
     {
-      "annal:property_uri": "dc:title",
-      "annal:field_placement": "small:0,12",
-      "annal:field_id": "Entity_label"
-    },
-    {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
-      "annal:field_id": "Entity_comment"
-    },
-    {
-      "annal:property_uri": "",
-      "annal:field_placement": "small:0,12;medium:0,6",
       "annal:field_id": "free_to_read"
     },
     {
       "annal:property_uri": "",
       "annal:field_placement": "small:0,12",
-      "annal:field_id": "license_ref"
+      "annal:field_id": "license_ref_r"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "format"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "identifier"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:field_id": "language"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "publisher_r"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "relation_r"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "source"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "subject_r"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "dateAccepted"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "apc"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "author_r"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "contributor_r"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "project_r"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "publication_date_r"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "type_r"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "version"
+    },
+    {
+      "annal:property_uri": "",
+      "annal:field_placement": "small:0,12",
+      "annal:field_id": "version_of_record"
     }
   ],
   "rdfs:label": "RIOXX publication view",
@@ -31,7 +101,6 @@
   "annal:open_view": true,
   "annal:type_id": "_view",
   "annal:record_type": "rioxx:Publication",
-  "annal:url": "/annalist/c/RIOXX_metadata/d/_view/RIOXX_view/",
   "annal:id": "RIOXX_view",
   "@id": "./",
   "@type": [

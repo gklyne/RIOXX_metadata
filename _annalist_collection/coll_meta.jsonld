@@ -1,8 +1,9 @@
 {
   "rdfs:label": "RIOXX metadata profile example",
   "rdfs:comment": "",
-  "annal:url": "/annalist/c/RIOXX_metadata/",
   "annal:type_id": "_collection",
+  "annal:url": "/annalist/c/RIOXX_metadata/",
+  "annal:default_list": "RIOXX_list",
   "annal:id": "RIOXX_metadata",
   "@id": "../",
   "@type": [
