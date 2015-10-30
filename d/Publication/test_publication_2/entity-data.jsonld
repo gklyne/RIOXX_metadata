@@ -53,13 +53,13 @@
     }
   ],
   "dc:identifier": "test:id",
-  "annal:url": "/annalist/c/RIOXX_metadata/d/Publication/test_publication_3/",
+  "annal:url": "/annalist/c/RIOXX_metadata/d/Publication/test_publication_2/",
   "@type": [
     "rioxx:Publication",
     "annal:EntityData"
   ],
   "rioxxterms:version_of_record": "http://demo.annalist.net/annalist/c/RIOXX_metadata/d/Publication/test_publication/",
-  "annal:id": "test_publication_3",
+  "annal:id": "test_publication_2",
   "rioxxterms:contributor_r": [
     {
       "rioxxterms:contributor_id": "acct:gklyne",
