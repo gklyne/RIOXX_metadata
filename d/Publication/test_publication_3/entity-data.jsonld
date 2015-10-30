@@ -1,0 +1,74 @@
+{
+  "dc:language": "en",
+  "dc:source": "Source label",
+  "annal:type_id": "Publication",
+  "dc:title": "RIOXX example/test document in Annalist",
+  "rioxxterms:type_r": [
+    {
+      "rioxxterms:type": "Other"
+    }
+  ],
+  "rioxxterms:publication_date_r": [
+    {
+      "rioxxterms:publication_date": "2015-02-27"
+    }
+  ],
+  "rioxxterms:author_r": [
+    {
+      "rioxxterms:author": "Graham Klyne"
+    }
+  ],
+  "dc:publisher_r": [
+    {
+      "dc:publisher": "gklyne"
+    }
+  ],
+  "dc:subject_r": [
+    {
+      "dc:subject": "Test subject"
+    }
+  ],
+  "dcterms:dateAccepted": "2015-02-27",
+  "rioxxterms:version": "V0.1",
+  "@id": "./",
+  "ali:free_to_read": [
+    {
+      "rioxx:start_date": "2015-02-27",
+      "rioxx:end_date": ""
+    }
+  ],
+  "rioxxterms:project_r": [
+    {
+      "rioxxterms:project": "Annalist",
+      "rioxx:funder_name": "Me!",
+      "rioxx:funder_id": "acct:gklyne"
+    }
+  ],
+  "dc:format": "some format",
+  "rioxxterms:apc": "not required",
+  "ali:license_ref": [
+    {
+      "rioxx:license_link": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "rioxx:start_date": "2015-02-27"
+    }
+  ],
+  "dc:identifier": "test:id",
+  "@type": [
+    "rioxx:Publication",
+    "annal:EntityData"
+  ],
+  "rioxxterms:version_of_record": "http://demo.annalist.net/annalist/c/RIOXX_metadata/d/Publication/test_publication/",
+  "annal:id": "test_publication_3",
+  "rioxxterms:contributor_r": [
+    {
+      "rioxxterms:contributor_id": "acct:gklyne",
+      "rioxxterms:contributor_name": "Graham Klyne"
+    }
+  ],
+  "annal:type": "annal:EntityData",
+  "dc:relation_r": [
+    {
+      "dc:relation": "test:relation"
+    }
+  ]
+}
